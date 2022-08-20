@@ -12,4 +12,5 @@ def save_video_sentiments(url):
     save_transcript(audio_url, title,sentiment_analysis=True)
 
 if __name__=="__main__": 
-    save_video_sentiments("https://www.youtube.com/watch?v=3ky2NiYXJzs")
+    url  = input("Enter video url : ")
+    save_video_sentiments(url)
