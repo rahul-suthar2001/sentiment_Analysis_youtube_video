@@ -1,0 +1,1802 @@
+[
+    {
+        "text": "Hi guys.",
+        "start": 1330,
+        "end": 1734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.558445155620575,
+        "speaker": null
+    },
+    {
+        "text": "This is Ranjeet, and in this video we'll be doing the full review of this iPhone 13 Pro.",
+        "start": 1772,
+        "end": 7230,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5366706252098083,
+        "speaker": null
+    },
+    {
+        "text": "And guys, if you recall Rpm, actually I posted the unboxing video almost about 45 days ago.",
+        "start": 7340,
+        "end": 12822,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8903729915618896,
+        "speaker": null
+    },
+    {
+        "text": "And before reviewing this iPhone 13 Pro Pro, I wanted to actually really use it.",
+        "start": 12956,
+        "end": 17178,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8850831985473633,
+        "speaker": null
+    },
+    {
+        "text": "So I've used it now for the past over 45 days.",
+        "start": 17264,
+        "end": 21066,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.82718425989151,
+        "speaker": null
+    },
+    {
+        "text": "So I'll let you know.",
+        "start": 21188,
+        "end": 22446,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7448955774307251,
+        "speaker": null
+    },
+    {
+        "text": "As an end user, what do I feel about it, what are the good things about this one?",
+        "start": 22568,
+        "end": 26538,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6715326309204102,
+        "speaker": null
+    },
+    {
+        "text": "And what are the things that I did not like?",
+        "start": 26564,
+        "end": 28290,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7096549272537231,
+        "speaker": null
+    },
+    {
+        "text": "And I've made a lot of pointers because it's been 45 days.",
+        "start": 28400,
+        "end": 32838,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5053935647010803,
+        "speaker": null
+    },
+    {
+        "text": "So I'll go over it, guys, I won't divide it into Pros and cons, but don't worry, I will mention the shortcomings.",
+        "start": 32864,
+        "end": 40462,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6237855553627014,
+        "speaker": null
+    },
+    {
+        "text": "Also in reality, what I felt, but it won't be that Pros and cons section because I feel people just go to the construction forgetting about the pros.",
+        "start": 40486,
+        "end": 47830,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5326851606369019,
+        "speaker": null
+    },
+    {
+        "text": "The pros and the cons actually make the whole experience.",
+        "start": 47890,
+        "end": 51762,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7186144590377808,
+        "speaker": null
+    },
+    {
+        "text": "So I'm going to divide it in areas.",
+        "start": 51836,
+        "end": 54190,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.843451201915741,
+        "speaker": null
+    },
+    {
+        "text": "Okay?",
+        "start": 54250,
+        "end": 54654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7123860716819763,
+        "speaker": null
+    },
+    {
+        "text": "And as you've seen from the title, it's a very weird kind of a title, and that's what I felt with this smartphone.",
+        "start": 54752,
+        "end": 62014,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5090845227241516,
+        "speaker": null
+    },
+    {
+        "text": "Actually, in terms of practicality, it's a brilliant smartphone.",
+        "start": 62122,
+        "end": 65734,
+        "sentiment": "POSITIVE",
+        "confidence": 0.942673921585083,
+        "speaker": null
+    },
+    {
+        "text": "But like any other smartphones, there are some shortcomings.",
+        "start": 65842,
+        "end": 69454,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7893441319465637,
+        "speaker": null
+    },
+    {
+        "text": "So let's talk about that one.",
+        "start": 69562,
+        "end": 71454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8428438901901245,
+        "speaker": null
+    },
+    {
+        "text": "Okay, first let's talk about the screen.",
+        "start": 71612,
+        "end": 73554,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8011102676391602,
+        "speaker": null
+    },
+    {
+        "text": "And I'm going to look at the laptop, guys, because it's here, over here.",
+        "start": 73592,
+        "end": 76098,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6006925106048584,
+        "speaker": null
+    },
+    {
+        "text": "I don't want to miss the point.",
+        "start": 76124,
+        "end": 77310,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6771060824394226,
+        "speaker": null
+    },
+    {
+        "text": "And first thing is regarding the screen and the display.",
+        "start": 77420,
+        "end": 79882,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8339996933937073,
+        "speaker": null
+    },
+    {
+        "text": "And here, finally, Apple has moved from that 60 Hz OLED display to this 120 Hz one.",
+        "start": 79966,
+        "end": 87222,
+        "sentiment": "POSITIVE",
+        "confidence": 0.780413806438446,
+        "speaker": null
+    },
+    {
+        "text": "And guys, this is actually a dynamic one, so it's not constantly 120 Hz.",
+        "start": 87236,
+        "end": 91942,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6216942667961121,
+        "speaker": null
+    },
+    {
+        "text": "It moves between ten to 120 Hz.",
+        "start": 92026,
+        "end": 94294,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.907824695110321,
+        "speaker": null
+    },
+    {
+        "text": "Based on what's happening right now, nothing is happening.",
+        "start": 94342,
+        "end": 95934,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5228492021560669,
+        "speaker": null
+    },
+    {
+        "text": "So it might be on ten Hz.",
+        "start": 95972,
+        "end": 97102,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.889154314994812,
+        "speaker": null
+    },
+    {
+        "text": "And finally, I would say it's high time Apple moved it because on Android phones, we have seen that 120 Hz on a lot of smart.",
+        "start": 97186,
+        "end": 103618,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5348606705665588,
+        "speaker": null
+    },
+    {
+        "text": "But sadly, it's only on the Pro version.",
+        "start": 103654,
+        "end": 105442,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6738044619560242,
+        "speaker": null
+    },
+    {
+        "text": "This is not on the regular version.",
+        "start": 105526,
+        "end": 107194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7234207987785339,
+        "speaker": null
+    },
+    {
+        "text": "But now coming to the reality I've been hearing from people like, okay, the 120 Hz implementation on iPhone is far better than Android or rubbish, guys, it's a good 120 Hz screen.",
+        "start": 107302,
+        "end": 117306,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7510129809379578,
+        "speaker": null
+    },
+    {
+        "text": "And I would say on an iPhone, what I have noticed is that the jump from 60 to 120 Hz is not as drastic as I've seen on other Android smartphones.",
+        "start": 117428,
+        "end": 126694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.48808038234710693,
+        "speaker": null
+    },
+    {
+        "text": "And the simple reason is that the animations on the iPhones are not as fast that you'll find on, what do you say, most of the Android phone.",
+        "start": 126742,
+        "end": 135078,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.601375162601471,
+        "speaker": null
+    },
+    {
+        "text": "That's right.",
+        "start": 135164,
+        "end": 135726,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5689783096313477,
+        "speaker": null
+    },
+    {
+        "text": "Moving between the 60 to 120 Hz is not a huge difference.",
+        "start": 135788,
+        "end": 139866,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7289085388183594,
+        "speaker": null
+    },
+    {
+        "text": "On Android, it's a huge difference.",
+        "start": 139928,
+        "end": 141570,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5766110420227051,
+        "speaker": null
+    },
+    {
+        "text": "But I welcome the move.",
+        "start": 141620,
+        "end": 143202,
+        "sentiment": "POSITIVE",
+        "confidence": 0.913823664188385,
+        "speaker": null
+    },
+    {
+        "text": "Once you're used to this 120 Hz, going back is difficult.",
+        "start": 143276,
+        "end": 146922,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5279668569564819,
+        "speaker": null
+    },
+    {
+        "text": "And coming to another thing is that the screen quality is really good and it's actually a really bright screen.",
+        "start": 147056,
+        "end": 152586,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9778876900672913,
+        "speaker": null
+    },
+    {
+        "text": "So even in outdoor situations, if you use it in direct sunlight, it's easily visible.",
+        "start": 152648,
+        "end": 157114,
+        "sentiment": "POSITIVE",
+        "confidence": 0.546978771686554,
+        "speaker": null
+    },
+    {
+        "text": "So, excellent quality screen and I'm glad they moved to that.",
+        "start": 157162,
+        "end": 160878,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9648132920265198,
+        "speaker": null
+    },
+    {
+        "text": "120 Hz.",
+        "start": 160904,
+        "end": 162094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7321394681930542,
+        "speaker": null
+    },
+    {
+        "text": "Okay, let's move to the next section.",
+        "start": 162202,
+        "end": 164506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8059453368186951,
+        "speaker": null
+    },
+    {
+        "text": "And that is regarding the build quality and here I would say it's excellent.",
+        "start": 164578,
+        "end": 169234,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9207472801208496,
+        "speaker": null
+    },
+    {
+        "text": "Guys, I'm using it with a case.",
+        "start": 169282,
+        "end": 171522,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.819321870803833,
+        "speaker": null
+    },
+    {
+        "text": "I just bought this case from Amazon.",
+        "start": 171716,
+        "end": 174270,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8477132320404053,
+        "speaker": null
+    },
+    {
+        "text": "Still it's not real, it's a transparent case using in 45 days.",
+        "start": 174770,
+        "end": 177918,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5902038812637329,
+        "speaker": null
+    },
+    {
+        "text": "Build quality is really good on this one.",
+        "start": 178004,
+        "end": 180666,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9609314799308777,
+        "speaker": null
+    },
+    {
+        "text": "So no issues of that, I would say.",
+        "start": 180788,
+        "end": 183390,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8217279314994812,
+        "speaker": null
+    },
+    {
+        "text": "But again, I would say this is definitely a heavy phone for the screen size, I would say.",
+        "start": 183560,
+        "end": 189846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5915193557739258,
+        "speaker": null
+    },
+    {
+        "text": "And it takes a little bit of time getting used to it.",
+        "start": 189908,
+        "end": 192546,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6721237301826477,
+        "speaker": null
+    },
+    {
+        "text": "And you might say, why am I using a case?",
+        "start": 192608,
+        "end": 194094,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.651701807975769,
+        "speaker": null
+    },
+    {
+        "text": "Because if you notice, I generally never use cases on a smartphone.",
+        "start": 194132,
+        "end": 197878,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5252351760864258,
+        "speaker": null
+    },
+    {
+        "text": "I don't like it.",
+        "start": 197914,
+        "end": 199062,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9510148167610168,
+        "speaker": null
+    },
+    {
+        "text": "But guys, the thing is that in India this is very expensive.",
+        "start": 199196,
+        "end": 203146,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7592874765396118,
+        "speaker": null
+    },
+    {
+        "text": "And I've heard that even if you crack the back glass, the repairs on the iPhone are super expensive here in India.",
+        "start": 203218,
+        "end": 211234,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7717835307121277,
+        "speaker": null
+    },
+    {
+        "text": "So I've been using this transparent case, it's been working fine.",
+        "start": 211342,
+        "end": 216426,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9090020060539246,
+        "speaker": null
+    },
+    {
+        "text": "I forgot the name of this one.",
+        "start": 216488,
+        "end": 217662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6573930978775024,
+        "speaker": null
+    },
+    {
+        "text": "I had purchased this from Amazon, so I'll leave the link of this case in the description in case you want to check it out.",
+        "start": 217676,
+        "end": 223182,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5451498627662659,
+        "speaker": null
+    },
+    {
+        "text": "In fact, accidentally once the phone fell on the back.",
+        "start": 223256,
+        "end": 227190,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5076410174369812,
+        "speaker": null
+    },
+    {
+        "text": "And thankfully, because of the case, as you can see, nothing has happened.",
+        "start": 227300,
+        "end": 231438,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5759365558624268,
+        "speaker": null
+    },
+    {
+        "text": "So build quality is excellent, but the phone definitely is on the heavier side, I would say, and it will take a little bit of time to get you.",
+        "start": 231584,
+        "end": 239838,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6349884867668152,
+        "speaker": null
+    },
+    {
+        "text": "So that's the reality of that one.",
+        "start": 239864,
+        "end": 241578,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7384364008903503,
+        "speaker": null
+    },
+    {
+        "text": "And that was one of the main reasons I didn't quote for the iPhone 13 Pro Max because that's actually just super heavy.",
+        "start": 241604,
+        "end": 247762,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7332760095596313,
+        "speaker": null
+    },
+    {
+        "text": "If you are planning to go for that one, go to a store and use that for ten minutes and see if it's comfortable or not, because it's definitely very heavy.",
+        "start": 247786,
+        "end": 257014,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5777353048324585,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, let's go to the next thing that I liked.",
+        "start": 257122,
+        "end": 259498,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7656448483467102,
+        "speaker": null
+    },
+    {
+        "text": "And this is regarding the call quality and the network.",
+        "start": 259534,
+        "end": 262654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6622196435928345,
+        "speaker": null
+    },
+    {
+        "text": "I tested this one with my Atl SIM.",
+        "start": 262762,
+        "end": 264654,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8573645949363708,
+        "speaker": null
+    },
+    {
+        "text": "In fact, still my Atl SIM is in this one and everything works, WiFi, calling, et cetera.",
+        "start": 264692,
+        "end": 270178,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8687572479248047,
+        "speaker": null
+    },
+    {
+        "text": "All those things work on this one.",
+        "start": 270274,
+        "end": 272298,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5818043351173401,
+        "speaker": null
+    },
+    {
+        "text": "And of course, yes, all iPhones 13 series are 5G in India, so you don't have to worry.",
+        "start": 272444,
+        "end": 278038,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9017642736434937,
+        "speaker": null
+    },
+    {
+        "text": "And they support multiple bands of like some vendors, but just a couple of bands.",
+        "start": 278074,
+        "end": 282886,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8221074938774109,
+        "speaker": null
+    },
+    {
+        "text": "So whenever 50 G comes next year, you don't have to worry.",
+        "start": 282958,
+        "end": 286174,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4902239441871643,
+        "speaker": null
+    },
+    {
+        "text": "Coming to the year piece on this one.",
+        "start": 286282,
+        "end": 288078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.876816987991333,
+        "speaker": null
+    },
+    {
+        "text": "The year piece quality is excellent.",
+        "start": 288104,
+        "end": 290254,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9491632580757141,
+        "speaker": null
+    },
+    {
+        "text": "On this one, I had no issues regarding the call quality.",
+        "start": 290302,
+        "end": 294090,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4651980698108673,
+        "speaker": null
+    },
+    {
+        "text": "Even the microphone quality is very good.",
+        "start": 294140,
+        "end": 296502,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9450361728668213,
+        "speaker": null
+    },
+    {
+        "text": "No issues of proximity sensor or anything, even on super long call.",
+        "start": 296576,
+        "end": 300474,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7107372879981995,
+        "speaker": null
+    },
+    {
+        "text": "So that way if you're sort of a business user, you will like it, you don't have to worry about it.",
+        "start": 300512,
+        "end": 305166,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5868446230888367,
+        "speaker": null
+    },
+    {
+        "text": "Call quality is very good.",
+        "start": 305228,
+        "end": 306474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9340534806251526,
+        "speaker": null
+    },
+    {
+        "text": "Network reception was also very good on this smartphone.",
+        "start": 306512,
+        "end": 310462,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9763076305389404,
+        "speaker": null
+    },
+    {
+        "text": "Now, coming to the battery life here, I would say this iPhone 13 series, definitely.",
+        "start": 310546,
+        "end": 316362,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9031026363372803,
+        "speaker": null
+    },
+    {
+        "text": "And the 13 Pro surprised me because generally on the iPhones, except for the Max edition, the big size one, battery life was always sort of an issue.",
+        "start": 316436,
+        "end": 325470,
+        "sentiment": "POSITIVE",
+        "confidence": 0.48688021302223206,
+        "speaker": null
+    },
+    {
+        "text": "But here on this one, I would say based on the last 45 days of usage, battery life has been stellar.",
+        "start": 325580,
+        "end": 332026,
+        "sentiment": "POSITIVE",
+        "confidence": 0.874035656452179,
+        "speaker": null
+    },
+    {
+        "text": "On this one, even with the typical days of usage, I was always having about 40% to 45% battery life left at the end of the day at about 11:00 at night.",
+        "start": 332098,
+        "end": 342138,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7485171556472778,
+        "speaker": null
+    },
+    {
+        "text": "I'd start my day at about 630 in the morning.",
+        "start": 342164,
+        "end": 344922,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8830680847167969,
+        "speaker": null
+    },
+    {
+        "text": "So battery life has been very good on the smartphone.",
+        "start": 345056,
+        "end": 348270,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9734290838241577,
+        "speaker": null
+    },
+    {
+        "text": "That is something that has surprised me, I thought.",
+        "start": 348650,
+        "end": 352950,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.590099573135376,
+        "speaker": null
+    },
+    {
+        "text": "Yes, everybody says it's good, but genuinely guys, it's been very good on the smartphone.",
+        "start": 353060,
+        "end": 358558,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9599435925483704,
+        "speaker": null
+    },
+    {
+        "text": "Again, I charge it last ten days, if you notice.",
+        "start": 358594,
+        "end": 360970,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8664270639419556,
+        "speaker": null
+    },
+    {
+        "text": "And a couple of days I had some very heavy usage with the smartphone, if you guys know, I've started riding the bike, so I put this on my bike and was using it as GPS continuously for 2 hours in hot sun.",
+        "start": 361090,
+        "end": 374310,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6956259608268738,
+        "speaker": null
+    },
+    {
+        "text": "So it was auto brightness the screen at max brightness, that kind of usage.",
+        "start": 374360,
+        "end": 379078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8314400315284729,
+        "speaker": null
+    },
+    {
+        "text": "Did a lot of camera samples.",
+        "start": 379234,
+        "end": 381142,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8382510542869568,
+        "speaker": null
+    },
+    {
+        "text": "Also that particular day I took and even at the end of the day, that typically pretty heavy usage.",
+        "start": 381166,
+        "end": 386338,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7953132390975952,
+        "speaker": null
+    },
+    {
+        "text": "It was down to just 10% at 1130 at night.",
+        "start": 386494,
+        "end": 390774,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8695582151412964,
+        "speaker": null
+    },
+    {
+        "text": "So in terms of battery life, I would say you don't have to worry about this one.",
+        "start": 390872,
+        "end": 395382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6607810854911804,
+        "speaker": null
+    },
+    {
+        "text": "And also like most of the what do you say iPhones, the idle drain is also very low on this one.",
+        "start": 395456,
+        "end": 402282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5998367071151733,
+        "speaker": null
+    },
+    {
+        "text": "So at night, if you leave it, there's almost hardly any battery drain on iPhones, that's the case even with this one.",
+        "start": 402356,
+        "end": 409362,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6369353532791138,
+        "speaker": null
+    },
+    {
+        "text": "So idle train is really good.",
+        "start": 409376,
+        "end": 410982,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9725773334503174,
+        "speaker": null
+    },
+    {
+        "text": "Coming to the performance guy, you don't have to worry, it has the A 15 Bionic chip.",
+        "start": 411056,
+        "end": 414862,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6477625966072083,
+        "speaker": null
+    },
+    {
+        "text": "So in terms of performance, no issues.",
+        "start": 414946,
+        "end": 416874,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6988314986228943,
+        "speaker": null
+    },
+    {
+        "text": "Also in terms of UI, no issues, it's iOS, no lag, whatever.",
+        "start": 416972,
+        "end": 421110,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7853219509124756,
+        "speaker": null
+    },
+    {
+        "text": "And memory management, if you also notice, it's very good.",
+        "start": 421220,
+        "end": 424374,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9548136591911316,
+        "speaker": null
+    },
+    {
+        "text": "I don't simply have to look at it or worry about all those things.",
+        "start": 424412,
+        "end": 429618,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6768884658813477,
+        "speaker": null
+    },
+    {
+        "text": "So that way, again, no issues in terms of day to day usage or memory management or something like that.",
+        "start": 429704,
+        "end": 437454,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7055879235267639,
+        "speaker": null
+    },
+    {
+        "text": "So that just works in the background and it just works, I would say.",
+        "start": 437492,
+        "end": 440886,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7261184453964233,
+        "speaker": null
+    },
+    {
+        "text": "So that way I did not have a problem.",
+        "start": 440948,
+        "end": 443370,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7036317586898804,
+        "speaker": null
+    },
+    {
+        "text": "The only thing I would say this is net picking for battery life.",
+        "start": 443540,
+        "end": 447054,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.765038013458252,
+        "speaker": null
+    },
+    {
+        "text": "This is still stuck to that Lightning port.",
+        "start": 447152,
+        "end": 449358,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.608792245388031,
+        "speaker": null
+    },
+    {
+        "text": "So I have to consciously carry that extra cable in the back because every other gadget that I have is not timec compatible.",
+        "start": 449444,
+        "end": 456754,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6916133165359497,
+        "speaker": null
+    },
+    {
+        "text": "So that is the source point coming to the stereo speakers.",
+        "start": 456802,
+        "end": 459934,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8976403474807739,
+        "speaker": null
+    },
+    {
+        "text": "Also, the stereo speakers are very good on this one, no issue.",
+        "start": 459982,
+        "end": 463170,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9804354906082153,
+        "speaker": null
+    },
+    {
+        "text": "In fact, guys, also watch if you're seriously considering this iPhone 13 Pro or the iPhone 13, also watch the other video that I posted, that is the FAQ video on this one, that also answers a lot of common questions that you guys were having.",
+        "start": 463280,
+        "end": 475602,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5841966867446899,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, let's move to the next thing.",
+        "start": 475676,
+        "end": 477942,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6303214430809021,
+        "speaker": null
+    },
+    {
+        "text": "Again, this is again iOS things, not particularly to the iPhone 13 pro, but I feel on iOS generally, I feel that the app permissions and data, what do you say, permissions and the kind of data that is shared with third party is better compared to Android or smartphones.",
+        "start": 478016,
+        "end": 497518,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7595818042755127,
+        "speaker": null
+    },
+    {
+        "text": "So in that respect, I would say iOS is slightly better, I would say.",
+        "start": 497554,
+        "end": 502098,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6877288222312927,
+        "speaker": null
+    },
+    {
+        "text": "And I appreciate that because this age, the data that's being shared everywhere, et cetera, it's not like the iPhone does not have any ads.",
+        "start": 502124,
+        "end": 511114,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7976552844047546,
+        "speaker": null
+    },
+    {
+        "text": "I have noticed one or two ads here, for example, here, as you can see in our purchase in this app store, you get here an ad.",
+        "start": 511162,
+        "end": 520902,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6242213249206543,
+        "speaker": null
+    },
+    {
+        "text": "But apart from that, I haven't seen any ads or anything in the notifications or anywhere else.",
+        "start": 520976,
+        "end": 527478,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6507360935211182,
+        "speaker": null
+    },
+    {
+        "text": "So that way I would say it is still clean.",
+        "start": 527624,
+        "end": 530790,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6866875290870667,
+        "speaker": null
+    },
+    {
+        "text": "I would say, unlike many of the Android phones, which are having a lot of pre baked upload, yes, there are some Apple apps on this one also preloaded, but again, most of them are useful.",
+        "start": 530840,
+        "end": 543178,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8591834306716919,
+        "speaker": null
+    },
+    {
+        "text": "For example, imovie and other stuff like GarageBand and all those things like that.",
+        "start": 543214,
+        "end": 548946,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8709238767623901,
+        "speaker": null
+    },
+    {
+        "text": "Now, coming to the thing that really impressed me on this iPhone 13 series is this rear facing camera.",
+        "start": 549128,
+        "end": 556930,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9649161696434021,
+        "speaker": null
+    },
+    {
+        "text": "I have to say the rear facing camera performance is brilliant.",
+        "start": 557050,
+        "end": 560850,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9447816014289856,
+        "speaker": null
+    },
+    {
+        "text": "I'll show you samples, static samples taken with this one in very light conditions.",
+        "start": 561890,
+        "end": 567226,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8723399043083191,
+        "speaker": null
+    },
+    {
+        "text": "Those are very excellent.",
+        "start": 567298,
+        "end": 568258,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9652413129806519,
+        "speaker": null
+    },
+    {
+        "text": "But first, let me also talk about the video.",
+        "start": 568294,
+        "end": 570680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8493852019309998,
+        "speaker": null
+    },
+    {
+        "text": "Always, iPhones have taken very good video.",
+        "start": 571430,
+        "end": 574194,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9461230635643005,
+        "speaker": null
+    },
+    {
+        "text": "The video quality has been very good and that's the case even with this one, I would say.",
+        "start": 574292,
+        "end": 579210,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9501863718032837,
+        "speaker": null
+    },
+    {
+        "text": "And in fact, the video quality was so good that in some of my, what do you say videos, I actually have shot parts of the videos or slow motion, et cetera, with this one and I've used it in the last 40 days and none of you actually noticed it.",
+        "start": 579380,
+        "end": 593778,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8728322386741638,
+        "speaker": null
+    },
+    {
+        "text": "In fact, for my bike initial impressions video that was completely actually shot on this one, I'll leave the link of that one.",
+        "start": 593804,
+        "end": 600486,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8585662841796875,
+        "speaker": null
+    },
+    {
+        "text": "So that way iPhone still in terms of video, if you shoot a lot of videos, I would still say the quality of the videos that come out with the iPhone are really good.",
+        "start": 600548,
+        "end": 609918,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8959057927131653,
+        "speaker": null
+    },
+    {
+        "text": "Just use an external microphone, I would say.",
+        "start": 609944,
+        "end": 611730,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8134754300117493,
+        "speaker": null
+    },
+    {
+        "text": "But apart from the video quality is really good on this one and in fact, for some of the bureaus, etc.",
+        "start": 611780,
+        "end": 617614,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9418158531188965,
+        "speaker": null
+    },
+    {
+        "text": "For I'm just using the footage from this one, it's that good.",
+        "start": 617662,
+        "end": 621738,
+        "sentiment": "POSITIVE",
+        "confidence": 0.968390941619873,
+        "speaker": null
+    },
+    {
+        "text": "Now, coming to the camera, the camera rear facing camera is stellar on this one, amongst the best.",
+        "start": 621824,
+        "end": 627846,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9651757478713989,
+        "speaker": null
+    },
+    {
+        "text": "It just works as you can see with the sample shots, no matter what the lighting conditions are bright outdoor conditions, yes, every smartphone takes good shots.",
+        "start": 627908,
+        "end": 637390,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8936477303504944,
+        "speaker": null
+    },
+    {
+        "text": "That's the same case with this one.",
+        "start": 637450,
+        "end": 638886,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.771022617816925,
+        "speaker": null
+    },
+    {
+        "text": "The dynamic range is good, but the speciality is in very low lighting, bell lighting, conditions.",
+        "start": 638948,
+        "end": 644506,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8979684710502625,
+        "speaker": null
+    },
+    {
+        "text": "The pictures that this one took actually surprised me.",
+        "start": 644578,
+        "end": 647418,
+        "sentiment": "POSITIVE",
+        "confidence": 0.537167489528656,
+        "speaker": null
+    },
+    {
+        "text": "The pictures look way brighter than what we are seeing.",
+        "start": 647444,
+        "end": 650430,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8826446533203125,
+        "speaker": null
+    },
+    {
+        "text": "These areas are very dull in lighting, even if there's a little bit of light, it just enhances it like crazy.",
+        "start": 650540,
+        "end": 658446,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.40429478883743286,
+        "speaker": null
+    },
+    {
+        "text": "So, in terms of camera performance, I would say the rear facing camera is sort of like a bulletproof camera.",
+        "start": 658568,
+        "end": 666334,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.753751814365387,
+        "speaker": null
+    },
+    {
+        "text": "For example, the professional cameras that are used, for example, I'm shooting this with the Canon EOS R and why I like it, yes, it's a pretty expensive camera with a special lens, but it's like a bulletproof camera.",
+        "start": 666382,
+        "end": 678346,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8003751635551453,
+        "speaker": null
+    },
+    {
+        "text": "And that's the same experience I had with the rear facing camera of this one.",
+        "start": 678478,
+        "end": 683180,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7474856376647949,
+        "speaker": null
+    },
+    {
+        "text": "Nine out of ten shots just look fabulous on this one.",
+        "start": 683870,
+        "end": 687534,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9732592105865479,
+        "speaker": null
+    },
+    {
+        "text": "So if you shoot a lot of pictures, you'll be very happy with the camera performance of this one.",
+        "start": 687632,
+        "end": 693762,
+        "sentiment": "POSITIVE",
+        "confidence": 0.892924427986145,
+        "speaker": null
+    },
+    {
+        "text": "Now, coming to the front facing camera, I've said that in the Unboxing video.",
+        "start": 693836,
+        "end": 697146,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8963441848754883,
+        "speaker": null
+    },
+    {
+        "text": "Also, for Indian skin tones, I don't like the front facing camera.",
+        "start": 697208,
+        "end": 701590,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9501202702522278,
+        "speaker": null
+    },
+    {
+        "text": "That's still the same case with this one.",
+        "start": 701710,
+        "end": 704154,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7402107119560242,
+        "speaker": null
+    },
+    {
+        "text": "So, front facing camera, I frankly do not like it that much.",
+        "start": 704312,
+        "end": 708860,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.944402813911438,
+        "speaker": null
+    },
+    {
+        "text": "Moving to the next thing is this is a Quantum and this is specifically for the Pro version of the iPhone.",
+        "start": 709250,
+        "end": 715426,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5502855777740479,
+        "speaker": null
+    },
+    {
+        "text": "And that's the pricing.",
+        "start": 715498,
+        "end": 716878,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6084272265434265,
+        "speaker": null
+    },
+    {
+        "text": "The pricing in India, I feel is ridiculous.",
+        "start": 716974,
+        "end": 720250,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9519267678260803,
+        "speaker": null
+    },
+    {
+        "text": "The base variant of this iPhone 13 Pro in India starts at 120 thousand.",
+        "start": 720370,
+        "end": 725406,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6651885509490967,
+        "speaker": null
+    },
+    {
+        "text": "And the one that I have, this is the 256 gigabyte variant.",
+        "start": 725528,
+        "end": 728550,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8904896974563599,
+        "speaker": null
+    },
+    {
+        "text": "This is almost one lakh 30,000.",
+        "start": 728990,
+        "end": 731106,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7813195586204529,
+        "speaker": null
+    },
+    {
+        "text": "So certainly very expensive.",
+        "start": 731168,
+        "end": 733618,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7060054540634155,
+        "speaker": null
+    },
+    {
+        "text": "I would say if you compare it with international pricing, in international pricing, it's around $1,000 to 1100 US dollars or something like that.",
+        "start": 733714,
+        "end": 742818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8921027183532715,
+        "speaker": null
+    },
+    {
+        "text": "But in India, it's super expensive.",
+        "start": 742844,
+        "end": 745402,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6652693152427673,
+        "speaker": null
+    },
+    {
+        "text": "So you're paying a huge premium, I would say, for the Pro series.",
+        "start": 745546,
+        "end": 749014,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6918113231658936,
+        "speaker": null
+    },
+    {
+        "text": "That way, I would say the regular iPhone 13 series do make a lot more sense.",
+        "start": 749122,
+        "end": 755034,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7938933968544006,
+        "speaker": null
+    },
+    {
+        "text": "Yes, still pricey, but not as ridiculously priced as the iPhone 13 Pro.",
+        "start": 755132,
+        "end": 760494,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4676758944988251,
+        "speaker": null
+    },
+    {
+        "text": "So the pricing is crazy on this one.",
+        "start": 760592,
+        "end": 763110,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5392389297485352,
+        "speaker": null
+    },
+    {
+        "text": "Now, coming to one more thing that I have noticed, and this is Face ID.",
+        "start": 763220,
+        "end": 767850,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6697492599487305,
+        "speaker": null
+    },
+    {
+        "text": "And as you can see, this works very well like this.",
+        "start": 767900,
+        "end": 770298,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9332300424575806,
+        "speaker": null
+    },
+    {
+        "text": "But again, guys, this is coming from practical experience that I've used this phone.",
+        "start": 770444,
+        "end": 775362,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6931546926498413,
+        "speaker": null
+    },
+    {
+        "text": "But if you're wearing a mask, most of the time, it simply does not work.",
+        "start": 775436,
+        "end": 780222,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8915243148803711,
+        "speaker": null
+    },
+    {
+        "text": "And if you notice, I've started again wearing this Apple Watch.",
+        "start": 780296,
+        "end": 783618,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8043317198753357,
+        "speaker": null
+    },
+    {
+        "text": "But if you are having an Apple Watch, then even if you wear mask or even a helmet, it just unlocks.",
+        "start": 783704,
+        "end": 790678,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7087289094924927,
+        "speaker": null
+    },
+    {
+        "text": "So, I would say in this age, the situation that we are in, we have to wear masks.",
+        "start": 790774,
+        "end": 797130,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5284590125083923,
+        "speaker": null
+    },
+    {
+        "text": "Apple could have provided the fingerprint scanner also in the power on a pattern, yes, for secure transactions, like doing payments or app purchases or something, force your Face ID for that.",
+        "start": 797570,
+        "end": 810438,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6280298233032227,
+        "speaker": null
+    },
+    {
+        "text": "But for just unlocking, they could have easily given this.",
+        "start": 810524,
+        "end": 813726,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6457958221435547,
+        "speaker": null
+    },
+    {
+        "text": "Because if you don't have an Apple Watch and if you are wearing a mask and you drive a bike or something, this can be pretty inconvenient and this is the reality that we are living.",
+        "start": 813848,
+        "end": 824454,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7914078831672668,
+        "speaker": null
+    },
+    {
+        "text": "And so that is something that I missed.",
+        "start": 824492,
+        "end": 825838,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8015062212944031,
+        "speaker": null
+    },
+    {
+        "text": "But after wearing the Apple Watch, it just works seamlessly, I would say.",
+        "start": 825874,
+        "end": 830466,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9358330368995667,
+        "speaker": null
+    },
+    {
+        "text": "It didn't work initially.",
+        "start": 830528,
+        "end": 831454,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8360865712165833,
+        "speaker": null
+    },
+    {
+        "text": "When I got it, there was one OT update that fixed it.",
+        "start": 831502,
+        "end": 833994,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5405354499816895,
+        "speaker": null
+    },
+    {
+        "text": "Now it works perfectly with the Apple Watch.",
+        "start": 834032,
+        "end": 835842,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9530181884765625,
+        "speaker": null
+    },
+    {
+        "text": "Even if you wear a mask or a helmet, it just unlocks if you're wearing an Apple Watch.",
+        "start": 835916,
+        "end": 840366,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5915581583976746,
+        "speaker": null
+    },
+    {
+        "text": "But again, you have to have an Apple Watch that's different.",
+        "start": 840548,
+        "end": 843498,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6816045641899109,
+        "speaker": null
+    },
+    {
+        "text": "What do you say?",
+        "start": 843644,
+        "end": 844506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7647861242294312,
+        "speaker": null
+    },
+    {
+        "text": "Expense?",
+        "start": 844628,
+        "end": 845290,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.733290433883667,
+        "speaker": null
+    },
+    {
+        "text": "Now, let me talk about some of the nitpicks coming from, what do you say, Android users point of view that I feel some of the features that are missing on the iPhone Xi Pro.",
+        "start": 845410,
+        "end": 858318,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5612882375717163,
+        "speaker": null
+    },
+    {
+        "text": "And the first thing is there is no always on screen.",
+        "start": 858464,
+        "end": 861846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7575991749763489,
+        "speaker": null
+    },
+    {
+        "text": "This is an OLED screen, but we don't have that always on.",
+        "start": 861908,
+        "end": 864954,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6448984146118164,
+        "speaker": null
+    },
+    {
+        "text": "And we have seen this always on notifications and stuff on Android phones from such a huge time and Apple could have easily given it because the battery life is stellar on this one.",
+        "start": 864992,
+        "end": 874398,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8119115233421326,
+        "speaker": null
+    },
+    {
+        "text": "So that is something that I miss.",
+        "start": 874484,
+        "end": 876162,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9075711965560913,
+        "speaker": null
+    },
+    {
+        "text": "Hopefully they enable it with iOS 16 update, keeping my fingers crossed because genuinely that's actually a useful feature, I would say.",
+        "start": 876236,
+        "end": 885174,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9335201978683472,
+        "speaker": null
+    },
+    {
+        "text": "Next thing is, and this is again, if you're Android phone user and if you rely on Truecaller, I have the paid version of the Truecaller then also it simply does not work that well on iOS.",
+        "start": 885332,
+        "end": 899098,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9162133932113647,
+        "speaker": null
+    },
+    {
+        "text": "The functionality is just like 40%, I would say.",
+        "start": 899254,
+        "end": 901926,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8606177568435669,
+        "speaker": null
+    },
+    {
+        "text": "So if you rely heavily on True caller, don't expect it to work seamlessly on the iPhone.",
+        "start": 901988,
+        "end": 907462,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5017927289009094,
+        "speaker": null
+    },
+    {
+        "text": "And next thing is that's why I said in the title boring.",
+        "start": 907606,
+        "end": 911310,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5312449932098389,
+        "speaker": null
+    },
+    {
+        "text": "After about 20 days I felt this is the same old iPhone, the rows and rows of icons.",
+        "start": 912050,
+        "end": 918178,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5486425161361694,
+        "speaker": null
+    },
+    {
+        "text": "Yes, you have some small widgets.",
+        "start": 918214,
+        "end": 920098,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7077701687812805,
+        "speaker": null
+    },
+    {
+        "text": "Now over here you can add that.",
+        "start": 920134,
+        "end": 922074,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7337738275527954,
+        "speaker": null
+    },
+    {
+        "text": "But overall it's mostly the same UI experience.",
+        "start": 922172,
+        "end": 925458,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7526350617408752,
+        "speaker": null
+    },
+    {
+        "text": "So if you never like the iPhone UI experience, the iPhone 13 Pro will not change that though it has to still our hardware.",
+        "start": 925544,
+        "end": 933214,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.4915960729122162,
+        "speaker": null
+    },
+    {
+        "text": "But this is a pretty old experience that you have and so you might get bored of that.",
+        "start": 933322,
+        "end": 939750,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.708509624004364,
+        "speaker": null
+    },
+    {
+        "text": "And again, as I've already told you, the Lightning port, they should have gone with the USB type C port on this one.",
+        "start": 939860,
+        "end": 946710,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7706246376037598,
+        "speaker": null
+    },
+    {
+        "text": "And again, say whatever you want.",
+        "start": 946880,
+        "end": 950562,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6897571086883545,
+        "speaker": null
+    },
+    {
+        "text": "I still don't like that notch on this one.",
+        "start": 950696,
+        "end": 954114,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9230802655220032,
+        "speaker": null
+    },
+    {
+        "text": "This notch is a huge notch on this one and I simply do not like it.",
+        "start": 954152,
+        "end": 959720,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9781252145767212,
+        "speaker": null
+    },
+    {
+        "text": "These are some of the nitpicking.",
+        "start": 960950,
+        "end": 962434,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6094213724136353,
+        "speaker": null
+    },
+    {
+        "text": "And now guys, for the summary, I have actually written it down, so I'll just read it so that I do not miss and give a lot of thought for this summary.",
+        "start": 962482,
+        "end": 972514,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5705270171165466,
+        "speaker": null
+    },
+    {
+        "text": "So, here is the summary in terms of hardware, the iPhone 13 Pro is like a super polished product which just works and does not come in your way.",
+        "start": 972682,
+        "end": 983838,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9159287810325623,
+        "speaker": null
+    },
+    {
+        "text": "And if you pair it with an Apple Watch, you get the best smartphone at smartphone combination, which is just excellent, the iPhone 13 Pro.",
+        "start": 983924,
+        "end": 992574,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9847819209098816,
+        "speaker": null
+    },
+    {
+        "text": "In terms of functionality wise, it's great and a super polished product.",
+        "start": 992612,
+        "end": 996690,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9860306978225708,
+        "speaker": null
+    },
+    {
+        "text": "And now even the battery life has become very good, so that is no longer an issue.",
+        "start": 996800,
+        "end": 1002270,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8787550330162048,
+        "speaker": null
+    },
+    {
+        "text": "And I would say this is one of those great smartphones that I've tested where I could not find any practical faults that bugged me too much while using the same.",
+        "start": 1002380,
+        "end": 1013418,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6531824469566345,
+        "speaker": null
+    },
+    {
+        "text": "But the Face ID in the mass world is still a bummer in my frank opinion, and at times, and I feel that Apple should have moved to the TypeC port for charging.",
+        "start": 1013564,
+        "end": 1024690,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6932778358459473,
+        "speaker": null
+    },
+    {
+        "text": "But if you were expecting a radical different experience and you never liked iOS UI experience, it's basically the same.",
+        "start": 1024810,
+        "end": 1033518,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.5764825940132141,
+        "speaker": null
+    },
+    {
+        "text": "That's why I say it's boring.",
+        "start": 1033604,
+        "end": 1035238,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8036261200904846,
+        "speaker": null
+    },
+    {
+        "text": "But still, I have to say this is one of the most polished and the perfect smartphone experience I had.",
+        "start": 1035334,
+        "end": 1042446,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9770774841308594,
+        "speaker": null
+    },
+    {
+        "text": "So guys, that was my review of the iPhone 13 Pro.",
+        "start": 1042628,
+        "end": 1045710,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5296650528907776,
+        "speaker": null
+    },
+    {
+        "text": "But in India, the iPhone 13 Pro pricing, as I've told, is sort of ridiculous.",
+        "start": 1045820,
+        "end": 1049854,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7304327487945557,
+        "speaker": null
+    },
+    {
+        "text": "So I would say if you're looking for an iPhone, go with iPhone 13 and also buy an Apple Watch.",
+        "start": 1049962,
+        "end": 1056474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7283120155334473,
+        "speaker": null
+    },
+    {
+        "text": "The combination of two will give you a far better experience, in my frank opinion.",
+        "start": 1056572,
+        "end": 1061230,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8701512813568115,
+        "speaker": null
+    },
+    {
+        "text": "But anyways, guys, that was my review of the iPhone 13 Pro.",
+        "start": 1061350,
+        "end": 1064886,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5934228897094727,
+        "speaker": null
+    },
+    {
+        "text": "What do you guys think about the same?",
+        "start": 1065008,
+        "end": 1066506,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8698854446411133,
+        "speaker": null
+    },
+    {
+        "text": "Do let me know in the comments section below.",
+        "start": 1066568,
+        "end": 1068186,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8842673897743225,
+        "speaker": null
+    },
+    {
+        "text": "Anyways, guys, that's it for now.",
+        "start": 1068248,
+        "end": 1069794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6843498945236206,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching.",
+        "start": 1069832,
+        "end": 1070478,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9529334306716919,
+        "speaker": null
+    },
+    {
+        "text": "This is Ranjeet and I hope to see you in my next video.",
+        "start": 1070564,
+        "end": 1073574,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8533206582069397,
+        "speaker": null
+    },
+    {
+        "text": "Take care guys.",
+        "start": 1073672,
+        "end": 1074180,
+        "sentiment": "POSITIVE",
+        "confidence": 0.49773943424224854,
+        "speaker": null
+    }
+]

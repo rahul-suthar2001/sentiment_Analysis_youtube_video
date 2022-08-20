@@ -1,0 +1,450 @@
+[
+    {
+        "text": "How is it going everybody?",
+        "start": 3490,
+        "end": 4482,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7594553232192993,
+        "speaker": null
+    },
+    {
+        "text": "Mr.",
+        "start": 4556,
+        "end": 4794,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5849316716194153,
+        "speaker": null
+    },
+    {
+        "text": "Android here.",
+        "start": 4832,
+        "end": 5574,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7255372405052185,
+        "speaker": null
+    },
+    {
+        "text": "Well, this is the Samsung Galaxy S 22 Ultra and I have been using this phone from the past couple of days even though the device is great.",
+        "start": 5672,
+        "end": 12954,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9526602625846863,
+        "speaker": null
+    },
+    {
+        "text": "But one thing that I really miss is the notification Led light that we used to get in older phones.",
+        "start": 13052,
+        "end": 17974,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.769894003868103,
+        "speaker": null
+    },
+    {
+        "text": "With that being said, in this video I will be showing you how you can make better use of this punch hole which you get in the center of the screen.",
+        "start": 18082,
+        "end": 25254,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5138134360313416,
+        "speaker": null
+    },
+    {
+        "text": "Basically, I will show you how to activate a very useful Led light around the camera cut out.",
+        "start": 25412,
+        "end": 30126,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5871896743774414,
+        "speaker": null
+    },
+    {
+        "text": "So whenever you receive any notifications, you will have this Led light blinking around the notch so that you don't miss any notifications.",
+        "start": 30188,
+        "end": 37350,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7839030027389526,
+        "speaker": null
+    },
+    {
+        "text": "With that said, stay tuned and watch this video till the very end because if you miss any step then it will not work for you.",
+        "start": 37790,
+        "end": 44370,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.7383751273155212,
+        "speaker": null
+    },
+    {
+        "text": "Also, let's aim for one family likes on this one.",
+        "start": 44480,
+        "end": 46818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5000823736190796,
+        "speaker": null
+    },
+    {
+        "text": "So drop a like leave a comment and let's get started.",
+        "start": 46904,
+        "end": 49400,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7261011600494385,
+        "speaker": null
+    },
+    {
+        "text": "All right guys, the first thing you need to do is head over to the Play Store and download this application called AOT Notify.",
+        "start": 50390,
+        "end": 56278,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5138087868690491,
+        "speaker": null
+    },
+    {
+        "text": "It is totally free to download and I will also make sure to drop a direct link in the description below.",
+        "start": 56434,
+        "end": 61280,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9240238070487976,
+        "speaker": null
+    },
+    {
+        "text": "Once you have installed the app, simply open it and tap on Next.",
+        "start": 61970,
+        "end": 66560,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7432329058647156,
+        "speaker": null
+    },
+    {
+        "text": "Now you will get the screen where you need to set up the application.",
+        "start": 67370,
+        "end": 70710,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8390563130378723,
+        "speaker": null
+    },
+    {
+        "text": "You don't have to worry, I will show you how to do that.",
+        "start": 70880,
+        "end": 73818,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5647952556610107,
+        "speaker": null
+    },
+    {
+        "text": "First you need to select what are the applications you want to get the notification Led light.",
+        "start": 73964,
+        "end": 78680,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8993610143661499,
+        "speaker": null
+    },
+    {
+        "text": "So I will choose a bunch of applications like WhatsApp, Instagram, YouTube and let's select Telegram as well.",
+        "start": 79190,
+        "end": 86480,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6767234206199646,
+        "speaker": null
+    },
+    {
+        "text": "Next you need to grant the permission for notification access.",
+        "start": 86870,
+        "end": 90042,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8919755220413208,
+        "speaker": null
+    },
+    {
+        "text": "It is completely safe so just go ahead and unlock the permission.",
+        "start": 90176,
+        "end": 94470,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6559643149375916,
+        "speaker": null
+    },
+    {
+        "text": "Now in order to use this application, you have to set the Office on Display as Show Always.",
+        "start": 95090,
+        "end": 99990,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8352959156036377,
+        "speaker": null
+    },
+    {
+        "text": "Then only the app will work for you.",
+        "start": 100100,
+        "end": 101814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.640201210975647,
+        "speaker": null
+    },
+    {
+        "text": "So just go to your Phone Settings Always on Display and make sure you have set it to Show Always.",
+        "start": 101912,
+        "end": 107300,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8267279267311096,
+        "speaker": null
+    },
+    {
+        "text": "Then you need to grant one more permission.",
+        "start": 107990,
+        "end": 110194,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8653098344802856,
+        "speaker": null
+    },
+    {
+        "text": "So just select the option and allow the permission that is required.",
+        "start": 110302,
+        "end": 113602,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.846000611782074,
+        "speaker": null
+    },
+    {
+        "text": "Once you have completed all these settings, tap on Done.",
+        "start": 113746,
+        "end": 117126,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.854494035243988,
+        "speaker": null
+    },
+    {
+        "text": "Here is the actual interface of this app where you can customize the light as for your preference.",
+        "start": 117248,
+        "end": 122110,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.729479968547821,
+        "speaker": null
+    },
+    {
+        "text": "Now go to Notification Light, select Style and make sure it is set to Camera Edge.",
+        "start": 122290,
+        "end": 127966,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9078571200370789,
+        "speaker": null
+    },
+    {
+        "text": "If you want you can change it to Screen Edges, but I would recommend you to set it as Camera Edge so that the Led light will blink around the punch hole which looks great.",
+        "start": 128098,
+        "end": 137480,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9149584174156189,
+        "speaker": null
+    },
+    {
+        "text": "Next, if you go to Effects here you can change the style or effect of this Led light.",
+        "start": 138230,
+        "end": 143226,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8916344046592712,
+        "speaker": null
+    },
+    {
+        "text": "You get three styles for Absolutely Free and if you want to unlock more, you need to pay for the proportion.",
+        "start": 143348,
+        "end": 148726,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8209899663925171,
+        "speaker": null
+    },
+    {
+        "text": "Apart from this, you can also increase the thickness and change the size of this Led light.",
+        "start": 148918,
+        "end": 153800,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8479713797569275,
+        "speaker": null
+    },
+    {
+        "text": "Next, if I go to colors, I can select a custom color for each application.",
+        "start": 154250,
+        "end": 158420,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7688767313957214,
+        "speaker": null
+    },
+    {
+        "text": "Now again, if you want to unlock this feature, you need to pay for the pro version.",
+        "start": 158930,
+        "end": 162610,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.693334698677063,
+        "speaker": null
+    },
+    {
+        "text": "But I guess the free version is more than enough for you.",
+        "start": 162730,
+        "end": 165126,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.49939051270484924,
+        "speaker": null
+    },
+    {
+        "text": "You can just go ahead and select any default color of your choice.",
+        "start": 165188,
+        "end": 168694,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7997757792472839,
+        "speaker": null
+    },
+    {
+        "text": "I will go with red.",
+        "start": 168802,
+        "end": 169842,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5396468639373779,
+        "speaker": null
+    },
+    {
+        "text": "So whenever I receive any notification, I will have this red colored Led light blinking around the camera.",
+        "start": 169916,
+        "end": 175078,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8828083872795105,
+        "speaker": null
+    },
+    {
+        "text": "Cut out.",
+        "start": 175114,
+        "end": 175880,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.47828301787376404,
+        "speaker": null
+    },
+    {
+        "text": "There is another feature that I want to show you.",
+        "start": 176390,
+        "end": 178422,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6144449710845947,
+        "speaker": null
+    },
+    {
+        "text": "If you go to notifications, select Battery.",
+        "start": 178496,
+        "end": 181390,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8611699938774109,
+        "speaker": null
+    },
+    {
+        "text": "Here you can activate the Led light when your phone isn't charging.",
+        "start": 181510,
+        "end": 184858,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6818866729736328,
+        "speaker": null
+    },
+    {
+        "text": "If you want, you can enable this feature.",
+        "start": 185014,
+        "end": 187126,
+        "sentiment": "POSITIVE",
+        "confidence": 0.5207887291908264,
+        "speaker": null
+    },
+    {
+        "text": "It's totally up to you.",
+        "start": 187198,
+        "end": 188706,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6970037817955017,
+        "speaker": null
+    },
+    {
+        "text": "So that's it.",
+        "start": 188888,
+        "end": 189918,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5518265962600708,
+        "speaker": null
+    },
+    {
+        "text": "This is how you can set up this application and activate a very useful Led light on your device.",
+        "start": 190004,
+        "end": 195226,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8741942644119263,
+        "speaker": null
+    },
+    {
+        "text": "All you have to do is just follow all the steps that I have mentioned in this video.",
+        "start": 195358,
+        "end": 199818,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5756025910377502,
+        "speaker": null
+    },
+    {
+        "text": "Trust me, it works really well.",
+        "start": 199964,
+        "end": 201762,
+        "sentiment": "POSITIVE",
+        "confidence": 0.925734281539917,
+        "speaker": null
+    },
+    {
+        "text": "Whenever you receive any notification, you will have this beautiful light blinking around the camera.",
+        "start": 201896,
+        "end": 206910,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8777137398719788,
+        "speaker": null
+    },
+    {
+        "text": "If you still face any issue, if you are unable to activate this, leave the light on your Galaxy device then let me know in the comments section.",
+        "start": 207230,
+        "end": 213814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5559485554695129,
+        "speaker": null
+    },
+    {
+        "text": "I will definitely help you out.",
+        "start": 213862,
+        "end": 215262,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8878244757652283,
+        "speaker": null
+    },
+    {
+        "text": "So that's it for this video.",
+        "start": 215336,
+        "end": 216450,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7553529143333435,
+        "speaker": null
+    },
+    {
+        "text": "If you guys liked this video then be sure to hit that like button.",
+        "start": 216500,
+        "end": 219102,
+        "sentiment": "POSITIVE",
+        "confidence": 0.8256465792655945,
+        "speaker": null
+    },
+    {
+        "text": "Subscribe to this channel if you haven't already.",
+        "start": 219236,
+        "end": 221118,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6187225580215454,
+        "speaker": null
+    },
+    {
+        "text": "I am Mr.",
+        "start": 221204,
+        "end": 221730,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7520365715026855,
+        "speaker": null
+    },
+    {
+        "text": "Android and I will see you guys in the next one.",
+        "start": 221780,
+        "end": 223620,
+        "sentiment": "POSITIVE",
+        "confidence": 0.63482666015625,
+        "speaker": null
+    }
+]
